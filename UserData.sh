@@ -8,7 +8,7 @@ GIT_REPO_URL="https://github.com/Hitesh-Badgujar/commodities_price.git"
 #GIT_REPO_URL="https://<your_username>:<your_PAT>@github.com/codewithmuh/django-aws-ec2-autoscaling.git"
 
 # Replace {YOUR_PROJECT_MAIN_DIR_NAME} with your actual project directory name
-PROJECT_MAIN_DIR_NAME="django-aws-ec2-nginx-gunicorn"
+PROJECT_MAIN_DIR_NAME="commodities_price"
 
 # Clone repository
 git clone "$GIT_REPO_URL" "/home/ubuntu/$PROJECT_MAIN_DIR_NAME"
